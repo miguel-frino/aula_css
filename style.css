@@ -1,0 +1,19 @@
+.card {
+		width: 500px;
+		height: fit-content;
+		background-color: aliceblue;
+		border-radius: 25px;
+		border: solid 2px navy;
+		margin: 20px;
+		padding: 40px
+	}
+
+	.nome {
+		font-family: monospace;
+		font-size: 30px;
+		margin-top: 20px;
+		color: green;
+	}
+	span{
+		color: navy;
+	}
